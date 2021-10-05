@@ -1,4 +1,4 @@
-HTML dan CSS
+Basic HTML dan CSS
 
 dasar HTML,
 penerapan elemen semantic,
