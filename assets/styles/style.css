@@ -103,6 +103,11 @@ figcaption {
     line-height: 140%;
 }
 
+#sejarah, #struktur, #keistimewaan {
+    padding-top: 95px;
+    margin-top: -95px;
+}
+
 footer {
     font-size: smaller;
     padding: 2px;
@@ -123,6 +128,10 @@ footer {
 .profile img {
     width: 200px;
     border-radius: 50%;
+}
+
+.profile table tr td {
+    padding-left: 15px;
 }
 
 .card {
